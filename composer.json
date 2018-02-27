@@ -1,0 +1,5 @@
+{
+    "require": {
+        "telegram-bot/api": "^2.2"
+    }
+}
